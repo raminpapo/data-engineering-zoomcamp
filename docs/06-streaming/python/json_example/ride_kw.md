@@ -1,0 +1,43 @@
+# Keywords: ride.py
+
+**Source**: `06-streaming/python/json_example/ride.py`
+**Count**: 38
+
+- Decimal
+- Dict
+- List
+- Ride
+- __class__
+- __dict__
+- __init__
+- __name__
+- __repr__
+- arr
+- classmethod
+- cls
+- congestion_surcharge
+- datetime
+- decimal
+- do_location_id
+- extra
+- fare_amount
+- from_dict
+- improvement_surcharge
+- int
+- mta_tax
+- passenger_count
+- payment_type
+- pu_location_id
+- rate_code_id
+- self
+- store_and_fwd_flag
+- str
+- strptime
+- tip_amount
+- tolls_amount
+- total_amount
+- tpep_dropoff_datetime
+- tpep_pickup_datetime
+- trip_distance
+- typing
+- vendor_id

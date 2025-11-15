@@ -1,0 +1,40 @@
+# Keywords: windowing.py
+
+**Source**: `06-streaming/python/streams-example/faust/windowing.py`
+**Count**: 35
+
+- App
+- Table
+- TaxiRide
+- __main__
+- __name__
+- agent
+- app
+- async
+- broker
+- datatalkclub
+- datatalksclub
+- datetime
+- default
+- event
+- expires
+- faust
+- group_by
+- hours
+- int
+- json
+- kafka
+- localhost
+- main
+- minutes
+- process
+- stream
+- taxi_rides
+- timedelta
+- topic
+- tumbling
+- value_type
+- vendorId
+- vendor_rides
+- vendor_rides_windowed
+- yellow_taxi_ride

@@ -1,0 +1,39 @@
+# Keywords: client.properties
+
+**Source**: `cohorts/2023/week_6_stream_processing/client.properties`
+**Count**: 34
+
+- API
+- BROKER
+- Best
+- CLOUD
+- CONFLUENT
+- KAFKA
+- Kafka
+- NAME
+- PASSWORD
+- PLAIN
+- Required
+- SASL_SSL
+- USER
+- admin
+- availability
+- bootstrap
+- clients
+- configs
+- connection
+- consumer
+- higher
+- librdkafka
+- mechanisms
+- password
+- practice
+- prior
+- producer
+- protocol
+- sasl
+- security
+- servers
+- session
+- timeout
+- username

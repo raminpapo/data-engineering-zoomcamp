@@ -1,0 +1,45 @@
+# Keywords: seeds_properties.yml
+
+**Source**: `04-analytics-engineering/taxi_rides_ny/seeds/seeds_properties.yml`
+**Count**: 40
+
+- Areas
+- Boro
+- City
+- Department
+- EWR
+- Includes
+- NTAs
+- NYC
+- Neighborhood
+- Planning
+- Tabulation
+- Taxi
+- Yellow
+- Zone
+- Zones
+- approximate
+- are
+- associated
+- based
+- can
+- description
+- dropped
+- meant
+- name
+- neighborhood
+- neighborhoods
+- off
+- passenger
+- picked
+- roughly
+- see
+- seeds
+- service_zone
+- taxi_zone_lookup
+- they
+- version
+- was
+- were
+- which
+- you

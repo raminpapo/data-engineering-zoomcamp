@@ -1,0 +1,42 @@
+# Keywords: settings.py
+
+**Source**: `cohorts/2023/week_6_stream_processing/settings.py`
+**Count**: 37
+
+- ALL_RIDE_SCHEMA
+- BOOTSTRAP_SERVERS
+- DOlocationID
+- FHV_TAXI_TOPIC
+- FHV_TRIP_DATA_PATH
+- GREEN_TAXI_TOPIC
+- GREEN_TRIP_DATA_PATH
+- PUlocationID
+- RIDES_TOPIC
+- StringType
+- StructField
+- StructType
+- all_rides
+- client_original
+- conf
+- config_file
+- csv
+- fhv_taxi_rides
+- fhv_tripdata
+- fhv_tripdata_2019
+- green_taxi_rides
+- green_tripdata
+- green_tripdata_2019
+- len
+- line
+- localhost
+- open
+- parameter
+- properties
+- pyspark
+- read_ccloud_config
+- resources
+- split
+- sql
+- strip
+- types
+- value

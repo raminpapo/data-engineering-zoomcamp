@@ -1,0 +1,39 @@
+# Keywords: branch_price.py
+
+**Source**: `06-streaming/python/streams-example/faust/branch_price.py`
+**Count**: 34
+
+- App
+- TaxiRide
+- __main__
+- __name__
+- agent
+- app
+- async
+- await
+- broker
+- current_event
+- datatalkclub
+- datatalks
+- datatalksclub
+- earliest
+- else
+- event
+- faust
+- forward
+- high_amount
+- high_amount_rides
+- json
+- kafka
+- localhost
+- low_amount
+- low_amount_rides
+- main
+- process
+- stream
+- taxi_rides
+- topic
+- total_amount
+- value_type
+- yellow_taxi_ride
+- yellow_taxi_rides

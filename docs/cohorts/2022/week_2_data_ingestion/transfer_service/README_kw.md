@@ -1,0 +1,43 @@
+# Keywords: README.md
+
+**Source**: `cohorts/2022/week_2_data_ingestion/transfer_service/README.md`
+**Count**: 38
+
+- AWS
+- Access
+- Click
+- Create
+- Download
+- Generate
+- IAM
+- Key
+- Login
+- Manage
+- New
+- Please
+- Search
+- Transfer
+- access
+- account
+- aws
+- cannot
+- cloud
+- com
+- console
+- csv
+- google
+- https
+- iam
+- images
+- jobs
+- key
+- lost
+- note
+- once
+- png
+- recovered
+- secret
+- service
+- transfer
+- would
+- your

@@ -1,0 +1,41 @@
+# Keywords: spark-base.Dockerfile
+
+**Source**: `06-streaming/python/docker/spark/spark-base.Dockerfile`
+**Count**: 36
+
+- ARG
+- Apache
+- ENV
+- Layer
+- PYSPARK_PYTHON
+- RUN
+- Runtime
+- SPARK_HOME
+- SPARK_MASTER_HOST
+- SPARK_MASTER_PORT
+- Spark
+- WORKDIR
+- apache
+- apt
+- archive
+- base
+- bin
+- cluster
+- curl
+- dist
+- get
+- hadoop
+- hadoop_version
+- https
+- install
+- logs
+- master
+- mkdir
+- org
+- python3
+- spark
+- spark_version
+- tar
+- tgz
+- update
+- usr

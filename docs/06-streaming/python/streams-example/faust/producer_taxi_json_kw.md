@@ -1,0 +1,43 @@
+# Keywords: producer_taxi_json.py
+
+**Source**: `06-streaming/python/streams-example/faust/producer_taxi_json.py`
+**Count**: 38
+
+- KafkaProducer
+- bootstrap_servers
+- csv
+- csvreader
+- datatalkclub
+- dumps
+- encode
+- file
+- float
+- header
+- int
+- json
+- kafka
+- key
+- key_serializer
+- lambda
+- localhost
+- next
+- open
+- passenger_count
+- payment_type
+- print
+- producer
+- producing
+- reader
+- resources
+- rides
+- row
+- send
+- sleep
+- time
+- total_amount
+- trip_distance
+- utf
+- value
+- value_serializer
+- vendorId
+- yellow_taxi_ride

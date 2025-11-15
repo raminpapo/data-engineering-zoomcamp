@@ -1,0 +1,47 @@
+# Keywords: docker-compose-nofrills.yml
+
+**Source**: `cohorts/2022/week_2_data_ingestion/airflow/docker-compose-nofrills.yml`
+**Count**: 42
+
+- AIRFLOW_UID
+- CMD
+- SHELL
+- airflow
+- always
+- build
+- command
+- credentials
+- dags
+- data
+- depends_on
+- entrypoint
+- env
+- env_file
+- failure
+- google
+- healthcheck
+- home
+- image
+- interval
+- lib
+- logs
+- opt
+- pg_isready
+- pid
+- plugins
+- ports
+- postgres
+- postgresql
+- restart
+- retries
+- scheduler
+- scripts
+- services
+- test
+- timeout
+- user
+- var
+- version
+- volume
+- volumes
+- webserver

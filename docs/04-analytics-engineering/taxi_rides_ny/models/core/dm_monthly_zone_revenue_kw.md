@@ -1,0 +1,43 @@
+# Keywords: dm_monthly_zone_revenue.sql
+
+**Source**: `04-analytics-engineering/taxi_rides_ny/models/core/dm_monthly_zone_revenue.sql`
+**Count**: 38
+
+- Additional
+- Revenue
+- avg
+- calculation
+- calculations
+- config
+- count
+- date_trunc
+- dbt
+- ehail_fee
+- extra
+- fact_trips
+- fare_amount
+- group
+- grouping
+- improvement_surcharge
+- materialized
+- month
+- mta_tax
+- passenger_count
+- pickup_datetime
+- pickup_zone
+- ref
+- revenue_month
+- revenue_monthly_extra
+- revenue_monthly_fare
+- revenue_zone
+- select
+- service_type
+- sum
+- table
+- tip_amount
+- tolls_amount
+- total_amount
+- total_monthly_trips
+- trip_distance
+- tripid
+- trips_data

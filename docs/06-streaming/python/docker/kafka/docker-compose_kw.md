@@ -1,0 +1,42 @@
+# Keywords: docker-compose.yml
+
+**Source**: `06-streaming/python/docker/kafka/docker-compose.yml`
+**Count**: 37
+
+- KAFKA_BROKER_ID
+- KAFKA_LISTENERS
+- KAFKA_REST_HOST_NAME
+- KAFKA_REST_LISTENERS
+- PLAINTEXT
+- PLAINTEXT_HOST
+- PORT
+- ZOOKEEPER_CLIENT_PORT
+- ZOOKEEPER_TICK_TIME
+- broker
+- center
+- confluentinc
+- container_name
+- control
+- default
+- depends_on
+- depreciated
+- enterprise
+- environment
+- external
+- hostname
+- http
+- image
+- kafka
+- localhost
+- name
+- network
+- networks
+- ports
+- registry
+- rest
+- schema
+- services
+- spark
+- true
+- version
+- zookeeper
